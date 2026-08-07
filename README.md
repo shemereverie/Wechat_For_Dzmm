@@ -9,6 +9,7 @@ Compress the WechatForDzmm folder into split ZIP archives, with each volume not 
 Double-click A_zipaddpng.bat; the program will run automatically and generate new files.
 Open DZMM, go to the Creator Center, create a new game, open the workbench, and import the new files obtained in the previous step.
 In the input box, enter the following instructions:
+Check the files provided or uploaded by the player in this request, and execute the following process:
 - Do not judge file types solely by their extensions; check file headers, volume numbers, file sizes, and compression formats to identify split archives disguised as image files.
 - Only process files explicitly provided by the player in this request; do not scan, move, or delete unrelated files.
 - Verify that all required volumes are present and combine them in the correct order, or pass them to the appropriate decompression tool.
